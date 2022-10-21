@@ -63,7 +63,7 @@
     cmd = meld "$LOCAL" "$REMOTE"
 [rebase]
     tool = meld
-    external = ~/.config/git-diff-wrapper.sh
+    external = ~/.git-diff-wrapper.sh
 [rebasetool]
     prompt = false
 [rebasetool "meld"]
